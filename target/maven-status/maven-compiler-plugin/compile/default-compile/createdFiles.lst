@@ -1,0 +1,4 @@
+com\example\reservaaulas\controller\AulaController.class
+com\example\reservaaulas\model\Aula.class
+com\example\reservaaulas\repository\AulaRepository.class
+com\example\reservaaulas\ReservaAulasApplication.class
